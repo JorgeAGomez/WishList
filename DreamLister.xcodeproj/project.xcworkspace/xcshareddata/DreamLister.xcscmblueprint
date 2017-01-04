@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1075B736AE072FFA59115178F7480B052E14048E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "80D3F2C5D621A6739554E4B9DAA7B83C7A7CDE5B" : 9223372036854775807,
+    "1075B736AE072FFA59115178F7480B052E14048E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6F1402DB-B754-4C0A-836F-58811E609817",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "80D3F2C5D621A6739554E4B9DAA7B83C7A7CDE5B" : "",
+    "1075B736AE072FFA59115178F7480B052E14048E" : "wishlist\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DreamLister",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DreamLister.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/JorgeAGomez\/wishlist.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1075B736AE072FFA59115178F7480B052E14048E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/JorgeAGomez\/wishlist.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "80D3F2C5D621A6739554E4B9DAA7B83C7A7CDE5B"
+    }
+  ]
+}
